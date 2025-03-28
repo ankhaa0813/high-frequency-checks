@@ -52,7 +52,7 @@
 			 , 
 			 replace
 		 ;
-	#d cr
+	#d crdddd
 	
 **# check key variable
 	* check that key variable contains no missing values
